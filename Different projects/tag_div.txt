@@ -1,0 +1,163 @@
+<div class="all">
+<div class="ban_main_top">
+</div>
+<div class="top_line">
+<div class="social_icons">
+<a href="/rss" onmouseout="this.children[0].src='https://www.belta.by/images/storage/banners/000015_06c67faab12793f011de90a38aef8cf1_work.svg'" onmouseover="this.children[0].src='https://www.belta.by/images/storage/banners/000015_e75332d9759a535dbd02582b38240ace_work.svg'" target="_self" title="Rss">
+<img alt="Rss" class="lazyload" data-src="https://www.belta.by/images/storage/banners/000015_06c67faab12793f011de90a38aef8cf1_work.svg" title="Rss"/>
+</a>
+<a href="https://www.twitter.com/beltanews" onmouseout="this.children[0].src='https://www.belta.by/images/storage/banners/000015_3a2e0ff45c6c22d43d458776ffe014b0_work.svg'" onmouseover="this.children[0].src='https://www.belta.by/images/storage/banners/000015_5d783aea0f6c76683722fb1ba6c1c1d1_work.svg'" target="_blank" title="twitter">
+<img alt="twitter" class="lazyload" data-src="https://www.belta.by/images/storage/banners/000015_3a2e0ff45c6c22d43d458776ffe014b0_work.svg" title="twitter"/>
+</a>
+<a href="https://www.instagram.com/beltanews/" onmouseout="this.children[0].src='https://www.belta.by/images/storage/banners/000015_dfb020327a27875950807e5a19ffd020_work.svg'" onmouseover="this.children[0].src='https://www.belta.by/images/storage/banners/000015_16d12d0a01989bf60add6345e63d7d6c_work.svg'" rel="nofollow" target="_blank" title="Instagram">
+<img alt="Instagram" class="lazyload" data-src="https://www.belta.by/images/storage/banners/000015_dfb020327a27875950807e5a19ffd020_work.svg" title="Instagram"/>
+</a>
+<a href="https://www.youtube.com/user/beltavideo" onmouseout="this.children[0].src='https://www.belta.by/images/storage/banners/000015_d13d4ea0deac25c940a3d9accb7071c8_work.svg'" onmouseover="this.children[0].src='https://www.belta.by/images/storage/banners/000015_f1b4133b2972136f56addd2ce6070ed2_work.svg'" rel="nofollow" target="_blank" title="YouTube">
+<img alt="YouTube" class="lazyload" data-src="https://www.belta.by/images/storage/banners/000015_d13d4ea0deac25c940a3d9accb7071c8_work.svg" title="YouTube"/>
+</a>
+<a href="https://www.facebook.com/beltanews/" onmouseout="this.children[0].src='https://www.belta.by/images/storage/banners/000015_85de3d590e2215f9ee73d91065827c5f_work.svg'" onmouseover="this.children[0].src='https://www.belta.by/images/storage/banners/000015_2dd7ef0e89eb8223de5094653e8e3ca9_work.svg'" rel="nofollow" target="_blank" title="facebook">
+<img alt="facebook" class="lazyload" data-src="https://www.belta.by/images/storage/banners/000015_85de3d590e2215f9ee73d91065827c5f_work.svg" title="facebook"/>
+</a>
+<a href="https://ok.ru/beltanews" onmouseout="this.children[0].src='https://www.belta.by/images/storage/banners/000015_b04121f7a43df29677bf43d83d5f7afd_work.svg'" onmouseover="this.children[0].src='https://www.belta.by/images/storage/banners/000015_5444909c31e907584930038efb9dec9a_work.svg'" rel="nofollow" target="_blank" title="odnoklassniki">
+<img alt="odnoklassniki" class="lazyload" data-src="https://www.belta.by/images/storage/banners/000015_b04121f7a43df29677bf43d83d5f7afd_work.svg" title="odnoklassniki"/>
+</a>
+<a href="https://vk.com/beltanews" onmouseout="this.children[0].src='https://www.belta.by/images/storage/banners/000015_c4d04b8b3cff18d719ac28090efd708b_work.svg'" onmouseover="this.children[0].src='https://www.belta.by/images/storage/banners/000015_b4fd98d6db82c9c31794c4d5c8bc6897_work.svg'" target="_blank" title="ВК">
+<img alt="ВК" class="lazyload" data-src="https://www.belta.by/images/storage/banners/000015_c4d04b8b3cff18d719ac28090efd708b_work.svg" title="ВК"/>
+</a>
+<a href="https://goo.gl/oz9j5Y " onmouseout="this.children[0].src='https://www.belta.by/images/storage/banners/000015_8794dec12dfd9fb4b3886671c8d823ee_work.svg'" onmouseover="this.children[0].src='https://www.belta.by/images/storage/banners/000015_e44fe46d0a71e82decddcc86de4cc4be_work.svg'" target="_blank" title="Viber">
+<img alt="Viber" class="lazyload" data-src="https://www.belta.by/images/storage/banners/000015_8794dec12dfd9fb4b3886671c8d823ee_work.svg" title="Viber"/>
+</a>
+<a href="https://t.me/belta_telegramm" onmouseout="this.children[0].src='https://www.belta.by/images/storage/banners/000015_4a4a860a7eca08059fc35a7265f26636_work.svg'" onmouseover="this.children[0].src='https://www.belta.by/images/storage/banners/000015_71c906be1e070943faac041d399df6a2_work.png'" target="_blank" title="Telegram">
+<img alt="Telegram" class="lazyload" data-src="https://www.belta.by/images/storage/banners/000015_4a4a860a7eca08059fc35a7265f26636_work.svg" title="Telegram"/>
+</a>
+<a href="https://zen.yandex.ru/belta.by" onmouseout="this.children[0].src='https://www.belta.by/images/storage/banners/000015_3ec06d2df09a18cae34d5bb7f4739eaa_work.svg'" onmouseover="this.children[0].src='https://www.belta.by/images/storage/banners/000015_a78e6dba12d3a2a9d782554708d70676_work.svg'" target="_blank" title="Zen.yandex">
+<img alt="Zen.yandex" class="lazyload" data-src="https://www.belta.by/images/storage/banners/000015_3ec06d2df09a18cae34d5bb7f4739eaa_work.svg" title="Zen.yandex"/>
+</a>
+</div>
+<script>
+        var scroll_items = Array();
+    </script>
+<div class="projects_menu">
+<div class="projects_menu_item" id="pr_el_464"><a href="https://elo.belta.by/ru/form-subscribe-ru" onmouseout="this.children[0].src='https://www.belta.by/images/storage/menu/000091_262368ed1c0ff739d2abc042a7226c78.svg'" onmouseover="this.children[0].src='https://www.belta.by/images/storage/menu/000091_563dea317be5879fa49d3cd630192f82.svg'" target="_blank" title=" Рассылка">
+<img alt=" Рассылка" src="https://www.belta.by/images/storage/menu/000091_262368ed1c0ff739d2abc042a7226c78.svg" title=" Рассылка"/><span> Рассылка</span> </a>
+</div>
+<div class="projects_menu_item" id="pr_el_257"><a href="https://www.belta.by/meteo/" onmouseout="this.children[0].src='https://www.belta.by/images/storage/menu/000091_1a1bb0701f9d3f01b920ea218691e4e6.svg'" onmouseover="this.children[0].src='https://www.belta.by/images/storage/menu/000091_780475ce54241537057199193807b1c2.svg'" target="_blank" title="Погода">
+<img alt="Погода" src="https://www.belta.by/images/storage/menu/000091_1a1bb0701f9d3f01b920ea218691e4e6.svg" title="Погода"/><span>Погода</span> </a>
+</div>
+<div class="projects_menu_item" id="pr_el_258"><a href="https://www.belta.by/currency/" onmouseout="this.children[0].src='https://www.belta.by/images/storage/menu/000091_741103557056bc95717efc0007c9a8b9.svg'" onmouseover="this.children[0].src='https://www.belta.by/images/storage/menu/000091_392ede967e1c9a4f2dd58f8fb7121ace.svg'" target="_blank" title="Курсы">
+<img alt="Курсы" src="https://www.belta.by/images/storage/menu/000091_741103557056bc95717efc0007c9a8b9.svg" title="Курсы"/><span>Курсы</span> </a>
+</div>
+<div class="projects_menu_item" id="pr_el_461"><a href="https://www.belta.by/konverter-valyut/" onmouseout="this.children[0].src='https://www.belta.by/images/storage/menu/000091_1e776498a84d5a964ffa737581f9796c.svg'" onmouseover="this.children[0].src='https://www.belta.by/images/storage/menu/000091_257ab989382c03ca0cf846f2393e3edb.svg'" target="_blank" title="Конвертер валют">
+<img alt="Конвертер валют" src="https://www.belta.by/images/storage/menu/000091_1e776498a84d5a964ffa737581f9796c.svg" title="Конвертер валют"/><span>Конвертер валют</span> </a>
+</div>
+<div class="projects_menu_item" id="pr_el_252"><a href="https://tv.belta.by/" onmouseout="this.children[0].src='https://www.belta.by/images/storage/menu/000091_0109aaa7e4539325740d0207dd9936e7.svg'" onmouseover="this.children[0].src='https://www.belta.by/images/storage/menu/000091_4d6b0a54a531361c70a3377e6b4983d8.svg'" target="_blank" title=" ТВ-гид">
+<img alt=" ТВ-гид" src="https://www.belta.by/images/storage/menu/000091_0109aaa7e4539325740d0207dd9936e7.svg" title=" ТВ-гид"/><span> ТВ-гид</span> </a>
+</div>
+<div class="projects_menu_item" id="pr_el_432"><a href="https://www.belta.by/horoscope/" onmouseout="this.children[0].src='https://www.belta.by/images/storage/menu/000091_02a02c852bab9776afb68bcb8bd69318.svg'" onmouseover="this.children[0].src='https://www.belta.by/images/storage/menu/000091_1f09c629162b2ec9ffe86be760f46442.svg'" target="_blank" title="Гороскоп">
+<img alt="Гороскоп" src="https://www.belta.by/images/storage/menu/000091_02a02c852bab9776afb68bcb8bd69318.svg" title="Гороскоп"/><span>Гороскоп</span> </a>
+</div>
+<div class="projects_menu_item" id="pr_el_58"><a href="https://photobelta.by/" onmouseout="this.children[0].src='https://www.belta.by/images/storage/menu/000091_9977c9bc7bd3b8c7436c91140b5212d9.svg'" onmouseover="this.children[0].src='https://www.belta.by/images/storage/menu/000091_67b2a7fda7a719c19d95c6acdb6bc728.svg'" target="_blank" title=" Фотохроника">
+<img alt=" Фотохроника" src="https://www.belta.by/images/storage/menu/000091_9977c9bc7bd3b8c7436c91140b5212d9.svg" title=" Фотохроника"/><span> Фотохроника</span> </a>
+</div>
+<div class="projects_menu_item projects_menu_drop" id="pr_el_111"><a href="https://www.belta.by/" onmouseout="this.children[0].src='https://www.belta.by/images/storage/menu/000091_a798da0a2a2fb39e57893bcf36c1f22d.svg'" onmouseover="this.children[0].src='https://www.belta.by/images/storage/menu/000091_ac7f968d737ea18c8d0b7dd120436698.svg'" title="ГОСОРГАНЫ">
+<img alt="ГОСОРГАНЫ" src="https://www.belta.by/images/storage/menu/000091_a798da0a2a2fb39e57893bcf36c1f22d.svg" title="ГОСОРГАНЫ"/><span>ГОСОРГАНЫ</span> </a>
+<script>
+                var scroll_pr_m = "pr_m_111";
+                scroll_items[scroll_items.length] = "pr_m_111";
+            </script>
+<div class="projects_menu_s" id="pr_m_111">
+<div class="pr_menu_s_item">
+<a href="https://president.gov.by/ru" rel="nofollow" target="_blank" title="Президент Беларуси">Президент Беларуси</a>
+</div>
+<div class="pr_menu_s_item">
+<a href="http://www.government.by/ru/" rel="nofollow" target="_blank" title="Совет Министров">Совет Министров</a>
+</div>
+<div class="pr_menu_s_item">
+<a href="http://www.sovrep.gov.by/" rel="nofollow" target="_blank" title="Совет Республики">Совет Республики</a>
+</div>
+<div class="pr_menu_s_item">
+<a href="http://www.house.gov.by/" rel="nofollow" target="_blank" title="Палата представителей">Палата представителей</a>
+</div>
+<div class="pr_menu_s_item">
+<a href="http://www.kc.gov.by/" rel="nofollow" target="_blank" title="Конституционный суд">Конституционный суд</a>
+</div>
+<div class="pr_menu_s_item">
+<a href="http://www.court.gov.by/" rel="nofollow" target="_blank" title="Верховный суд">Верховный суд</a>
+</div>
+<div class="pr_menu_s_item">
+<a href="http://www.kgk.gov.by/ru/" rel="nofollow" target="_blank" title="Комитет государственного контроля">Комитет государственного контроля</a>
+</div>
+<div class="pr_menu_s_item">
+<a href="http://www.prokuratura.gov.by/" rel="nofollow" target="_blank" title="Генеральная прокуратура">Генеральная прокуратура</a>
+</div>
+<div class="pr_menu_s_item">
+<a href="http://www.nbrb.by/" rel="nofollow" target="_blank" title="Национальный банк">Национальный банк</a>
+</div>
+<div class="pr_menu_s_item">
+<a href="http://www.mas.by/" rel="nofollow" target="_blank" title="Министерство архитектуры и строительства">Министерство архитектуры и строительства</a>
+</div>
+<div class="pr_menu_s_item">
+<a href="http://mvd.gov.by/" rel="nofollow" target="_blank" title="Министерство внутренних дел">Министерство внутренних дел</a>
+</div>
+<div class="pr_menu_s_item">
+<a href="http://www.mjkx.gov.by/" rel="nofollow" target="_blank" title="Министерство ЖКХ">Министерство ЖКХ</a>
+</div>
+<div class="pr_menu_s_item">
+<a href="http://minzdrav.gov.by/ru/" rel="nofollow" target="_blank" title="Министерство здравоохранения">Министерство здравоохранения</a>
+</div>
+<div class="pr_menu_s_item">
+<a href="http://www.mfa.gov.by/" rel="nofollow" target="_blank" title="Министерство иностранных дел">Министерство иностранных дел</a>
+</div>
+<div class="pr_menu_s_item">
+<a href="http://www.mininform.gov.by/" rel="nofollow" target="_blank" title="Министерство информации">Министерство информации</a>
+</div>
+<div class="pr_menu_s_item">
+<a href="http://www.kultura.by/" rel="nofollow" target="_blank" title="Министерство культуры">Министерство культуры</a>
+</div>
+<div class="pr_menu_s_item">
+<a href="http://www.mlh.gov.by/" rel="nofollow" target="_blank" title="Министерство лесного хозяйства">Министерство лесного хозяйства</a>
+</div>
+<div class="pr_menu_s_item">
+<a href="http://nalog.gov.by/" rel="nofollow" target="_blank" title="Министерство по налогам и сборам">Министерство по налогам и сборам</a>
+</div>
+<div class="pr_menu_s_item">
+<a href="http://edu.gov.by/" rel="nofollow" target="_blank" title="Министерство образования">Министерство образования</a>
+</div>
+<div class="pr_menu_s_item">
+<a href="http://www.mil.by/" rel="nofollow" target="_blank" title="Министерство обороны">Министерство обороны</a>
+</div>
+<div class="pr_menu_s_item">
+<a href="http://minpriroda.gov.by/" rel="nofollow" target="_blank" title="Министерство природных ресурсов">Министерство природных ресурсов</a>
+</div>
+<div class="pr_menu_s_item">
+<a href="http://www.minprom.gov.by/" rel="nofollow" target="_blank" title="Министерство промышленности">Министерство промышленности</a>
+</div>
+<div class="pr_menu_s_item">
+<a href="http://www.mpt.gov.by/" rel="nofollow" target="_blank" title="Министерство связи и информатизации">Министерство связи и информатизации</a>
+</div>
+<div class="pr_menu_s_item">
+<a href="https://www.mshp.gov.by/" rel="nofollow" target="_blank" title="Министерство сельского хозяйства">Министерство сельского хозяйства</a>
+</div>
+<div class="pr_menu_s_item">
+<a href="http://www.mst.by/" rel="nofollow" target="_blank" title="Министерство спорта и туризма">Министерство спорта и туризма</a>
+</div>
+<div class="pr_menu_s_item">
+<a href="http://mart.gov.by/" rel="nofollow" target="_blank" title="Министерство антимонопольного регулирования и торговли">Министерство антимонопольного регулирования и торговли</a>
+</div>
+<div class="pr_menu_s_item">
+<a href="http://www.mintrans.gov.by/" rel="nofollow" target="_blank" title="Министерство транспорта и коммуникаций">Министерство транспорта и коммуникаций</a>
+</div>
+<div class="pr_menu_s_item">
+<a href="http://www.mintrud.gov.by/" rel="nofollow" target="_blank" title="Министерство труда и социальной защиты">Министерство труда и социальной защиты</a>
+</div>
+<div class="pr_menu_s_item">
+<a href="http://mchs.gov.by/" rel="nofollow" target="_blank" title="Министерство по чрезвычайным ситуациям">Министерство по чрезвычайным ситуациям</a>
+</div>
+<div class="pr_menu_s_item">
+<a href="http://www.minfin.gov.by/" rel="nofollow" target="_blank" title="Министерство финансов">Министерство финансов</a>
+</div>
+<div class="pr_menu_s_item">
+<a href="http://www.economy.gov.by/" rel="nofollow" target="_blank" title="Министерство экономики">Министерство экономики</a>
+</div>
+<div class="pr_menu_s_item">
+<a href="http://www.minenergo.gov.by/" rel="nofollow" target="_blank" title="Министерство энергетики">Министерство энергетики</a>
